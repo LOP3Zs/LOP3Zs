@@ -1,5 +1,5 @@
 ### Hi there 👋
-Language: Python
+### Language: Python
 Data Science: Pandas, Numpy, Seaborns, Matplotlib
 <!--
 **LOP3Zs/LOP3Zs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
